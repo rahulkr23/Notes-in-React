@@ -31,7 +31,7 @@ const App = () => {
                 <button onClick={listOfItems}> + </button>
 
                 <ol>
-                    {/* <li>{inputList}</li> */}
+                  
 
                     {Items.map((itemval) => {
 
